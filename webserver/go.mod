@@ -1,3 +1,3 @@
-module Webserver
+module webserver
 
 go 1.15
